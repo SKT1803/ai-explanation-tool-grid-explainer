@@ -16,7 +16,7 @@ While advanced tools like SHAP, LIME, and Grad-CAM provide rich, gradient or per
 
 GridExplainer was developed with this key idea:
 <pre>
-      ❓ “Why not visually show which regions matter most — by simply hiding them and observing the effect?”
+❓ “Why not visually show which regions matter most — by simply hiding them and observing the effect?”
 </pre>
 
 This approach results in transparent, grid-based visualizations that mimic human reasoning and are easy to interpret.
