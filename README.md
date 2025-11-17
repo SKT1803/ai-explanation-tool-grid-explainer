@@ -1,3 +1,14 @@
+<div align="center" id="gridexp">
+
+<img src="example-images/logo.png" width="125px">
+
+![Tensorflow](https://img.shields.io/badge/Tensorflow-white?logo=tensorflow)
+
+</div>
+
+
+
+
 # AI Explanation Tool, GridExplainer: Visual Model Explanation via Grid-Based Occlusion
 
 GridExplainer is a simple yet powerful interpretability tool for deep learning image models. It provides intuitive, visual explanations by measuring how hiding different image segments affects model confidence.
