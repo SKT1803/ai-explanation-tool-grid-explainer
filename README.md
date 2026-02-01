@@ -2,7 +2,11 @@
 
 <img src="example-images/logo.png" width="125px">
 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-white?logo=tensorflow)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</div>
+
 
 </div>
 
